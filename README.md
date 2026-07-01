@@ -36,4 +36,4 @@ A self-hosted, real-time e-commerce **lakehouse**, built end to end:
 
 #### 📫 Reach Me
 
-[LinkedIn](https://linkedin.com/in/deniz-isik-ofc/)) · [E-mail](mailto:denizsk977@%gmail.com)
+[LinkedIn](https://linkedin.com/in/deniz-isik-ofc/) · [E-mail](mailto:denizsk977@%gmail.com)
