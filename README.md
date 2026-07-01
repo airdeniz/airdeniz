@@ -34,6 +34,20 @@ A self-hosted, real-time e-commerce **lakehouse**, built end to end:
 
 ---
 
+#### 📊 GitHub Stats
+
+<div align="center">
+
+![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=airdeniz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=airdeniz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=airdeniz&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 #### 📫 Reach Me
 
-[LinkedIn](https://linkedin.com/in/deniz-isik-ofc/) · [E-mail](mailto:denizsk977@%gmail.com)
+[LinkedIn](https://linkedin.com/in/deniz-isik-ofc/) · [E-mail](mailto:denizsk977@gmail.com)
